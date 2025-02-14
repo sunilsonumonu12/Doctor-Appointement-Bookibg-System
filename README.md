@@ -23,12 +23,9 @@ The **Doctor Appointment System** is a full-stack web application built using th
 - npm (comes with Node.js)
 
 ### **Installation Steps**
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/doctor-appointment-system.git
    cd doctor-appointment-system
-## **2. Setup the Backend**
 
-**Navigate to the backend folder:**
-```bash
 
